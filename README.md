@@ -1,2 +1,2 @@
-# practical_network_defense
-Practical network defense assignments
+# Practical network defense assignments
+The assigned tasks are in the `/assignment` folder, the proposed solutions in the `/reports` folder
